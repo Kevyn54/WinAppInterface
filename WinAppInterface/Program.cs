@@ -9,6 +9,7 @@ namespace WinAppInterface
     internal static class Program
     {
         /// <summary>
+        /// primer comit prueba Kevyn
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]

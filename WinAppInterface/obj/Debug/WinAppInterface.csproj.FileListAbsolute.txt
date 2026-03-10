@@ -1,0 +1,12 @@
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\bin\Debug\WinAppInterface.exe.config
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\bin\Debug\WinAppInterface.exe
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\bin\Debug\WinAppInterface.pdb
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.csproj.AssemblyReference.cache
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.Form1.resources
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.Properties.Resources.resources
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.csproj.GenerateResource.cache
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.csproj.CoreCompileInputs.cache
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.exe
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.pdb
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.FrmcaraFeliz.resources
+C:\Users\ASUS 2025\Documents\5TO SEMESTRE\APLI\programas ejercicios een clase\WinAppInterface\WinAppInterface\obj\Debug\WinAppInterface.FrCaraTriste.resources
